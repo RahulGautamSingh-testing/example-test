@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "@types/react-dom": "^18.0.1",
-    "abbrev": "^1.0.3",
+    "abbrev": "^2.0.0",
     "xmldoc": "^1.0.0"
   }
 }
