@@ -9,9 +9,9 @@ The logs are for the PR: https://github.com/RahulGautamSingh-testing/example-tes
 
 ```log
 DEBUG: Generating package-lock.json for . (repository=RahulGautamSingh-testing/example-test, branch=renovate/workspace-test)
-DEBUG: Spawning npm install to create ./package-lock.json (repository=RahulGautamSingh-testing/example-test, branch=renovate/workspace-test)
+DEBUG: Spawning npm install to create ./package-lock.json (repository=RahulGautamSingh-testing/example-test, branch=..)
 ...
-DEBUG: Performing lockfileUpdate (npm-workspaces) (repository=RahulGautamSingh-testing/example-test, branch=renovate/workspace-test)
+DEBUG: Performing lockfileUpdate (npm-workspaces) (repository=RahulGautamSingh-testing/example-test, branch=renovate/work..)
 DEBUG: Performing lockfileUpdate (npm) (repository=RahulGautamSingh-testing/example-test, branch=renovate/workspace-test)
 ...
 DEBUG: Executing command (repository=RahulGautamSingh-testing/example-test, branch=renovate/workspace-test)
